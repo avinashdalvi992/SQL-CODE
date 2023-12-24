@@ -1,0 +1,10 @@
+create table orders_table(
+order_date date,
+Regin varchar (50),
+Rep varchar (50),
+order_LIE varchar (50),
+units int,
+unit_cost decimal (10,2),
+total_price decimal (10,2),
+order_ID int
+);
